@@ -1,10 +1,9 @@
-body { background: green;
-       color: blue;
-}
-.amariyin { color: yellow;}
+body { background: #B962C4;}
 
-.rosadito { color: #EB335E;}
+.amariyin {color: yellow;}
+.verdecito {color: green;}
 
 h1 {
   font-family: "Comic Sans MS", cursive, sans-serif;
+   color: red;
 }
